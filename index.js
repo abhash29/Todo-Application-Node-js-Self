@@ -91,3 +91,5 @@ function onPressDelete(id) {
 
 // Initial data fetch
 getData();
+git branch -M main
+git push -u origin main
